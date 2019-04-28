@@ -10,8 +10,8 @@ The sanctuary city of the Felemelte
 
 
 ### Inhabitants
-[Felemelte](/people/felemelte.md)
-[Sciame](people/sciame.md)
+- [Felemelte](/people/felemelte.md)
+- [Sciame](people/sciame.md)
 
  
 ### Social Structure
