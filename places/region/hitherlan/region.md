@@ -19,18 +19,9 @@ The selectively low-tech hub of national activity encircling this northerly nook
 ###### The Imperial Palace
 Deep within the Fiorraga mountains, a great obsidian palace looms large and inpregnable between formidable stone monoliths and sparkling quartz cliffs, burbled angrily upon by violent arctic seafoam. The imperial palace, a hybrid of art-deco, Gigeresque, and neo-gothic architecture, seems at once to claw at the earth and to grasp at the stars, the latter impression underscored by its proximity to the currently active volcano, Auldeglace. Auldeglace regularly pumps out nebulas of vulcan haze that hang low in the sky and block out the sun for much of the day.
 
-
 ### Inhabitants
+[Fiorraga Auldres](people/fiorraga_auldres.md)
 
-#### Fiorraga Auldres
-The FA, the ancient mountain people of Hitherlan, are shapeshifters whose native form appears avian - many would say 'crowlike' or, at times, 'owlike'.
-- FA are mostly hermetic, loners, reclusive except for their birds. They are, by nature, endowed with an empathic/psionic link to birds, including Felemeltian birdfolk. The degree of that link varies by an individual's arcane aptitude, age, practice, etc. These hermits, the solemn ornithologists of Hitherlani culture, maintain a sacred bond between the winged emissaries of the Thereafter and this delicate mortal coil. Their practices are as timeless as the mountain corridors they inhabit.
-- As FA age, their bodies weaken, but their passive arcana increases (prophetic visions, deepening empathic connections with living things to an almost telepathic extent, communing with the dead). This is because, as they age, the veil between worlds thins. A Fiorraga Auldre's age-related transition to the Nether is a more gradual, less jarring process than it is for most mortals. Days pass, the candle burns, and one day it burns out.
-- FA often reference 'the burning of the candle'. It has yet to be seen whether this is a literal candle each of them guards against the world that marks the beginning and end of their lives, or if it's some astral plane object outside of mundane perception but visible to FAs, or if it's just a metaphor upon which they all got the memo.
-- While age brings about a maturation of FA's passive arcana, it also crystalizes form. Shapeshifting becomes a more resistant process. There is some risk for an eldery FA to become trapped in a form they inhabit for very long.
-- One might wonder why a shapeshifter need age at all. As a Fiorraga Auldre once explained it, 
- "We each are poured into this world: a cup filled to the brim. Each moment, Death takes a drink. We Fiorraga Auldre cups may change our liquid contents (apple juice to wine) but cannot replenish the quantity. To bear the pitcher of Time is another responsibility altogether."
- 
 ### Social Structure
 #### The Asatru : Priests of the Undying
 The Asatru are both the keepers of the Auldeglace Tomb and the crusader army of God Empress Astryd. On a mundane level, they are an army of Hitherlani orphans and unwanted children trained for battle from a very young age, often from toddlerhood. Until the Return, they will remain stewards of the land and defenders of the tomb, but legend has it that a time will come when God Empress Astryd will rise again and the asatru will conquer the nations Hitherlan once possessed, the conquest for the glory of Astryd and the blood of the fallen in sacrament to the Unseelie Court.
@@ -47,12 +38,6 @@ Hitherlan's most prominent mythic heroes include the God-Empress Astryd, her Uns
 The nation's current leader, Lord Reagent Smar, is one of a long line of reagents ascended since the territory was conquered in the ol' B.C.E. days. The reagents fill the archetypal role once purportedly played by Changeling Jione, a faithful servant of the sun-blighting God-Empress Astryd. Changelings are ritually integrated into Hitherlan politics when the imperial Unseelie Court cyclically sends an immortal emissary in the form of an unseelie child to walk among mortals, replacing a Felemelte/human child with one of their own. This unique form of embassy results in exquisite intel into the surrounding southerly populations and a freshening up of the council's bloodline as the reagant takes an Unseelie mate in betrothal. The Hitherlan population, a mixture of humans and forest creatures recognized equally as sharing inalienable rights of citizenship, remain conventionally mortal and earthly and are left to intermarry amongst themselves.
 
 In the modern era, this happens to represent a relatively small (human) gene pool, and thus the population of local humans are deemed unkindly but not altogether inaccurately to be a bit imbred. Hitherlan history, for what it's worth, holds it that this was not always the case.
-
-### Arcana
-#### Fiorra Auldre Magic
-- FA are mostly hermetic, loners, reclusive except for their birds. They are, by nature, endowed with an empathic/psionic link to birds, including Felemeltian birdfolk. The degree of that link varies by an individual's arcane aptitude, age, practice, etc.
-- As shapeshifters, the Fiorraga Auldres can (and have, and do) intermarry with the humans and anyone else they please. Given that many are asexual (for the love of a challenge*), procreation usually serves a purpose. Marriages most commonly occur in the Unseelie Court, to produce successors. Given the limited genepool of FAs, the mating partners are almost exclusively changelings (human or Felemelte raised among the FA) to bring in fresh blood.
-- As FA age, their bodies weaken, but their passive arcana increases (prophetic visions, deepening empathic connections with living things to an almost telepathic extent, communing with the dead).
 
 #### Asatru & the Unseelies
 The Unseelies are shadowfolk of the Nether: valkyries/dark spirits who await at the place between life and oblivion, feasting on the aura of spilled blood and souls.
