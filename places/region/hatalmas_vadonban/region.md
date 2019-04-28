@@ -10,15 +10,8 @@ The sanctuary city of the Felemelte
 
 
 ### Inhabitants
-
-#### Felemelte
-Noun Singular: Felemelte
-Noun Plural: Felemelte
-Adjective: Felemeltean
-
-*A vupline Felemelte and three lapin Felemelte met at market to purchase ingredients for a traditional Felemeltean feast.*
-
-#### Sciame
+[Felemelte](/people/felemelte.md)
+[Sciame](people/sciame.md)
 
  
 ### Social Structure
