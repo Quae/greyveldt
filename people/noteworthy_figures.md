@@ -1,0 +1,14 @@
+# Noteworthy Figures
+
+Individuals of import both historical and contemporary. Might only be known through story or song with room to doubt as to whether they ever truly existed or be thoroughly documented. Some degree of familiarity with these individual would constitute common knowledge, even if only passing. Arrange by species, timeline, or nation?
+
+## Felemelte
+__ADEL__ The first known non-insectoid anthropomorph to encounter humans. Fox. Found in the wilderness beyond Beacon (pre-Sprawl era), unable to communicate in human language. Taken into captivity for study, where she died. Extensive reports of medical examinations and testing (pre and post-mortem) on file in Beacon record storage. Existence was not public knowledge until centuries later when Beacon Council released cherry-picked documents detailing her time in their custody during diplomatic proceedings with Felemelte. Full extent of treatment and experimentation remains sealed and none left alive are presumed to have ever questioned the past Council's interpretation of her life.
+
+__"SPIRIT TALKER" BROKEN ANTLER__ The first Felemelte to develop the magical skillset now associated with shamans. Elk. Gave legitimacy to the "Spire's Whispers" that were considered the work of overactive imaginations until his time. Described as humble, soft-spoken, and awkward. Gained noteriety for his precise weather forecasting following the Early Freeze in his 18th lifted year. Died in his 39th lifted year. Was treated as the template for shamanistic behaviour during the formative days of Felemelte spiritualism. Nickname/title earned from his communing with the Crystal Spire and his insistence that the Spire's Whispers were the words of an entity residing in the Crystal Spire attempting to make contact with the children it had created. Started the Felemelte movement to see all ferals uplifted.
+
+__GRÜNEWALD "THE VENERATED"__ Galapagos Tortoise. Recently-passed head of the shamanic body and, by extension, leader of Nest and the Felemelte people as a whole. Died at 254 lifted years, estimated 277 years since birth. Ascended to leadership of shamanic body following previous leader's death during 88th lifted year. First shaman to hold the post for more than 30 years. Almost universally adored for his public 'kindly, doddering grandfather' persona but known within the shamanic body for his sharp mind, anti-carnivore leanings, and ruthless political and diplomatic maneuvering. Is widely believed to have been the most formidable weathermancer in the world right up to the day of his passing. The first to be interred within the Nest basin since the rise of modern Felemelte spiritualism began.
+
+__NAME TBD__ Grunewald's successor.
+
+__NAME TBD__ Felemelte diplomatic representitive to Beacon Council. Overseer of official Felemelte commercial enterprise in Beacon.
