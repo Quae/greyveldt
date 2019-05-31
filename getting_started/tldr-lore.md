@@ -1,3 +1,3 @@
 ## TLDR LORE
 
-For the quick-start efficianado
+For the quick-start efficianado.
