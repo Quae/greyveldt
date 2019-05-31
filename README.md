@@ -27,6 +27,6 @@ Last updated 5/31/19
 
 
 # Getting Started
-We recommend reading our ['TLDR' guide to Greyveldt lore ](https://github.com/Quae/greyveldt_lore/blob/master/getting_started/tldr-lore.md), and follow the links from there to get started on char creation ideas! :)
+Read about [Kudosing](https://github.com/Quae/greyveldt_lore/blob/master/getting_started/kudosing.md), our player reward system, then check out our ['TLDR' guide to Greyveldt lore ](https://github.com/Quae/greyveldt_lore/blob/master/getting_started/tldr-lore.md), and follow the links from there to get started on char creation ideas! :)
 
 
