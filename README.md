@@ -1,7 +1,3 @@
-# Welcome to Greyveldt
-Lore for Greyveldt
-
-
 # Greyveldt Terms of Service
 _Don't be a dick   - Wheaton's Law_
 
@@ -28,3 +24,9 @@ Instead of telling someone 'you can't do that because of x', we prefer to say, '
 By joining, acknowledge that this server is owned by Quae and Quae has final say in rule enforcement, argument resolution and banning decisionmaking. She'd like to be viewed as a generally-off-hands game master figure rather than the boss,so figure your shit out amongst yourselves before taking it to her because she won't be happy about playing mediator.
 
 Last updated 5/31/19
+
+
+# Getting Started
+We recommend reading our ['TLDR' guide to Greyveldt lore ](https://github.com/Quae/greyveldt_lore/blob/master/getting_started/tldr-lore.md), and follow the links from there to get started on char creation ideas! :)
+
+
