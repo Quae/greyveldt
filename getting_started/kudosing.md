@@ -1,6 +1,6 @@
 ## About the Kudos System
 
-Good roleplay should be rewarded, and who better to 'kudos' good gameplay than the players! 
+Good roleplay should be rewarded, and who better to 'kudos' good gameplay than the players! You can see your kudos count by using the command '!kr' in any bot-enabled channel.
 
 We track four stats with kudosing:
 
