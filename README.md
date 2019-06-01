@@ -21,7 +21,7 @@ By joining, you acknowledge that your original character alone is yours; lore be
 Instead of telling someone 'you can't do that because of x', we prefer to say, 'x is the status quo, what's different here- in vague terms- that lets you break it to make a good story?' The caveat being that we're assuming everyone is coming from a point of artistic license rather than metagaming or Mary-sue-itis. This does NOT give people the right to god-mode your character. Please ask people beforehand if you have an intended outcome in mind during cooperative play. 'Creativity and cool story telling first, super in-depth attention to detail on the meta-physics of blood-ritual and how you just violated all of them, second'.
 
 ### There's a GM. Her name is Quae.
-By joining, acknowledge that this server is owned by Quae and Quae has final say in rule enforcement, argument resolution and banning decisionmaking. She'd like to be viewed as a generally-off-hands game master figure rather than the boss,so figure your shit out amongst yourselves before taking it to her because she won't be happy about playing mediator.
+By joining, acknowledge that this server is owned by Quae and Quae has final say in rule enforcement, argument resolution and banning decisionmaking. She'd like to be viewed as a generally-off-hands game master figure rather than the boss, so figure your shit out amongst yourselves before taking it to her because she won't be happy about playing mediator.
 
 Last updated 5/31/19
 
