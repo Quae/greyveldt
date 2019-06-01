@@ -11,7 +11,7 @@ By joining, you agree to abide by OOC vs. IC distinction by using specific OOC c
 ### Be Cooperative
 By joining, you are agreeing to participate in the created world as an equal partner for improversational play and to abide by existing lore as best as you are able. There can be exceptions to the lore, but keep in mind that exceptions are just that- and if everyone is an exception, they are no longer exceptional. Please root exceptions in good storywriting (i.e. humans normally have human coloured eyes by Earth standards, but this one has glowy blue eyes because they're addicted to Crystal).
 
-### Keep PG13+ Content Off Public Channels
+### Keep 18+ Content Off Public Channels
 By joining, you agree to keep overly gorey/violent, sexual or otherwise 18+ content in private channels. If a content is requested to be moved to a private channel, please be courteous and do so without complaint. By participating in 18+ content, you are confirming that you are 18+ and abiding by the laws of your region. Greyveldt is not responsible for monitoring or mediating private in-character content. Private OOC bullshit may result in a ban.
 
 ### Copyright Stuff
