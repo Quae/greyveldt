@@ -6,7 +6,7 @@
 
 ***Intelligence*** - Affects things like interfacing with unknown technologies, using foreign weapons, dressing wounds or treating illnesses, deciphering language, etc
 
-***Charisma*** - Affects the inclination of NPCs to respond favorably or give discounts or information
+***Charisma*** - Affects the inclination of NPCs to respond favorably or give discounts or information. Good RPers will incorporate your charisma score into their response to you, but it is not required.
 
 -------------
 
