@@ -27,9 +27,11 @@ Last updated 5/31/19
 
 
 # Getting Started
-Read about: 
+Read about:
 - [Kudosing](https://github.com/Quae/greyveldt_lore/blob/master/getting_started/kudosing.md), our player reward system 
 - ['TLDR' guide to Greyveldt lore ](https://github.com/Quae/greyveldt_lore/blob/master/getting_started/tldr-lore.md)
+- [Player Races](https://github.com/Quae/greyveldt_lore/blob/master/getting_started/player_races.md)
+- [Your First Character](https://github.com/Quae/greyveldt_lore/blob/master/getting_started/your_first_character.md)
 - [Character stats](https://github.com/Quae/greyveldt_lore/blob/master/getting_started/stats.md)
 
 
