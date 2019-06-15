@@ -13,3 +13,6 @@ Humana are stunted, magically; the closer one is to 'human', the less innate tal
 
 ### Humana Cities
 Humana populations cluster together, seeking strength in numbers, with convoluted social structures making up their hierarchy in cities such as Beacon and Roxane. Lone humana traveling the Lucid Wastes or those having immigrated to non-humana settlements such as the Nest are viewed with curiosity and suspicion, like scouts before a raid.
+
+### Humana Culture
+The wildly varying cultures of the humana are a common theme of amusement among other ancestries; Beacon humana are proud to be the most 'human'-like, whereas Roxane celebrates the mutations of its humana population. It is best to defer to the cities themselves for the cultural trends of local humana.
