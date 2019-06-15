@@ -9,6 +9,6 @@ There's a lot to learn about the Greyveldt multiverse and it's daunting to pick 
 You will 'unlock' the ability to play other ancestries with experience and kudos.
 
 ### 2. Stat Up!
-Don't panic! [Character stats](https://github.com/Quae/greyveldt_lore/blob/master/getting_started/stats.md) are not end-all defining aspects of a character, but instead guidelines for that character in prose. There are only four stats (fitness, health, intelligence, and charisma), and they're really just to help players find four poignant descriptive words for their character, as well as encourage both strengths and flaws.
+Don't panic! [Character stats](https://github.com/Quae/greyveldt_lore/blob/master/getting_started/stats.md) are not end-all defining aspects of a character, but instead guidelines for that character in prose. There are only four stats (fitness, health, intelligence, and charisma), and they're really just to help players boil down to four, poignantly descriptive words or phrases, as well as encourage both strengths and flaws.
 
 ### 3. 
