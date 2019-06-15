@@ -1,7 +1,7 @@
 # Humana
 
 ### Physical Qualities
-Humana identify their ancestry as largely 'human' even though in truth, no one is truly 'human' anymore, thus the alteration to the word itself. Mutation and interbreeding have led to a vast array of minor physiological possibilities. Humana always retain a bipedal form and roughly humanoid features, but the possibilites beyond that are near endless: spots, scales, slitted eyes, third eyelids, gills, webbed fingers, conical nails, even wings... that said, there are no flight capable humana.
+Humana identify their ancestry as largely 'human' even though in truth no one is truly 'human' anymore (thus the alteration to the word itself). Mutation and interbreeding have led to a vast array of minor physiological changes. Humana are those that retain a bipedal form and roughly humanoid features, but the possibilites beyond that are near endless: spots, scales, slitted eyes, third eyelids, gills, webbed fingers, conical nails, even wings... that said, there are no flight capable humana.
 
 Size-wise, humana range from about 4 feet tall to 7 feet, from 90lbs to as large as 500lbs. Exceeding these limitations expells the entity from being considered 'humana', and instead referred to as something else.
 
