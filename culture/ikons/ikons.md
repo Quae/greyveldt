@@ -7,5 +7,3 @@
 - [The Pangolin, representing introverts, safety, and impenetrable focus](https://github.com/Quae/greyveldt/blob/master/culture/ikons/pangolin.md)
 - [St. Elmo, patron saint of salty curmudgeons and angry cats](https://github.com/Quae/greyveldt/edit/master/culture/ikons/st_elmo.md)
 - [The Sparrow, harbringer of agricultural success and compromise](https://github.com/Quae/greyveldt/blob/master/culture/ikons/sparrow.md)
-
--
