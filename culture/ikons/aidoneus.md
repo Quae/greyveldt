@@ -1,6 +1,6 @@
 ## Aidoneus, the duality of death
 
-### Avatar Appearance
+### Representation / Symbology
 Aidoneus is presented as two entities: a black rhinocerous and a bird friend perched upon its back. The bird speaks in a voice alarmingly low for its size, while the rhino is silent. Between the two, they represent the complexity that is death.
 
 ### Followers
