@@ -1,7 +1,7 @@
 ## Elmo, patron saint of salty curmudgeons and angry cats
 
-### Avatar Appearance
-St. Elmo is represented by an skinny orange tabby cat with crumpled ears and an angry demeanor to all but his devotees. 
+### Representation / Symbology
+St. Elmo was said to have been a wirey, malnourished orange tabby cat with crumpled ears and an angry demeanor. To be touched by St. Elmo is to have a rough, worn, or well-used appearance, needing tended to or repaired. 
 
 ### Followers
 Followers of St. Elmo are generally referred to as 'eccentric' and 'tempermental'. They are often strange in speech or deed, and usually celebrate their oddities. There are followers of St. Elmo all across Signa, popping up here and there, usually wherever stray cats can be found. 
