@@ -1,6 +1,6 @@
 
 ### Ikons
-#### Religious deifications or symbolic representation of luck, karma, or cosmic interference. Differentiated from deities in that they are not a single defined entity, but more of a thought or a concept.
+#### Religious deifications or symbolic representation of luck, karma, or cosmic interference. Differentiated from deities in that they are more of a thought or a concept, or else considered saints or servants of population subsets (i.e. patron saints of thieves versus the goddess of midnight tresspass)
 
 - [Aidoneus, bird and rhino representing the duality of death](https://github.com/Quae/greyveldt/blob/master/culture/ikons/aidoneus.md)
 - [The Avocado, representing promise, wealth, greed, generosity in turn, correlated to the state of the avocado](https://github.com/Quae/greyveldt/blob/master/culture/ikons/avocado.md)
