@@ -1,6 +1,6 @@
 ## The Avocado, symbol of wealth and its facets
 
-### Avatar Appearance
+### Representation / Symbology
 There are four representations of the avocado:
 - The Whole Avocado is the untouched fruit with a nub of stem where it was attached to its tree. This symbolizes promise, be it wealth or good tidings or untapped talent.
 - The Bisected Avocado is, as expected, an avocado cut in half, with the pit still embedded. It symbolizes wealth and generosity, for one has taken their whole avocado and gifted it- without the inconvenience of the core- to someone else.
