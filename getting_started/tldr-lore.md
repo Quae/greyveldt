@@ -10,4 +10,5 @@ Current characters in Greyveldt would have run across these pieces through Roxan
 
 Note, given that much music includes technology NOT available in Greyveldt, we have handwaived the tech resctrictions for musical instruments exclusively. Players found trying to turn their steampunk electric guitars into handguns will be summarily Bespoken To.
 
-
+### Where is Greyveldt?
+There's a planet somewhere out there in fantasy/sci fi land that's all on its lonesome. Characters will have grown up hearing stories about there being a huge universe out there, with other planets, other creatures, other cultures, and Humana in particular will be inclined to believe themselves to be descended from offworlders.
