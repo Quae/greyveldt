@@ -34,7 +34,7 @@ The exception, as mentioned elsewhere, is with technology necessary to produce m
 
 ### What about magic?
 
-Thanks for asking, yes, there IS magic in Greyveldt! We are a medium to high magic setting, where in there are nymphs, goblins, faeries, curses, healing, talking trees, etc, but the amount of power commanded by PLAYERS is limited. Players are welcome to freely claim the listed magics of their ancestry (such as minor healing, flame or water conjuration, camoflauge). 
+Thanks for asking, yes, there IS magic in Greyveldt! We are a medium to high magic setting, where in there are nymphs, goblins, faeries, curses, healing, talking trees, etc, but the amount of power commanded by PLAYERS is limited. Players are welcome to freely claim and use the listed magics of their ancestry (such as minor healing, flame or water conjuration, camoflauge), but have a care when deciding on brand new magic/abilities/super'human' skills.
 
 #### Be Reasonable
 We disapprove of overpowered magics such as flying or transformation without an equivocable cost. When in doubt, ask in #help. We err of the side of 'yes, and', so long as it doesn't restrict other players from enjoying the game and interacting on an equal playing field.
