@@ -66,7 +66,8 @@ Want to be an itinerant bard, trekking the dangerous paths through the Lucid Was
 
 **Chassy Khazaran,** a humana ancestry Sentinel of Beacon, fallen from grace with her involvement- or lack in preventing- the explosion of the Beeliner. She's now in charge of the Wayfarer branch office in Beacon, handing out bounties and their rewards.
 
-**Razor,** a batkin Felemelte wanted for terrorism, murder, sabotague, and all sorts of other nasty crimes racked up during his involvement with the Beeliner explosion. Rumor has it he lives in that town of scum and villany, Roxane.
+**Razor,** an ex-Sentinel batkin Felemelte wanted for terrorism, murder, sabotage, and all sorts of other nasty crimes racked up during his involvement with the Beeliner explosion. Rumor has it he lives in that town of scum and villany, Roxane. Rumor also has it that he was Chassy's partner at the time of the Beeliner explosion...
+
 
 If you'd like to run some ideas past folks and get input from the natives, feel free to ask in #halp for advice, or for a lurker tag so you can OOCly watch RP happening all across Greyveldt for inspiration.
 
