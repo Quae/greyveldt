@@ -26,6 +26,8 @@ Beacon, for example, has security cameras, working toilets, and water purificati
 
 By and large, though, outside of pockets of tech and steam punk (mostly Beacon and Roxane), the world exists on a medieval/victorian era technology level. When in doubt, go pocket watch and horse-drawn carriage, or ask in #halp.
 
+The exception, as mentioned elsewhere, is with technology necessary to produce modern day music. This is available to the rich, clever, talented, or criminal. Most of these implements are found in Roxane. Music technology is not to be used to develop guns and other modern tech. No exceptions.
+
 #### There are no cars, just the one expansive railway train and traditional beasts of burden.
 
 #### No guns. Sorry. Not even pepperboxes. 
