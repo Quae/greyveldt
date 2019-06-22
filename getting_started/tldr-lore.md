@@ -52,7 +52,7 @@ You might want to adopt one or two as your character's patron influencer/saint/d
 ### So what kind of characters can I play?
 Almost literally anything, with limitations on power/influence/wealth/fame/over powered whateverness. We encourage creativity for the sake of interesting stories, so there's a lot of leeway granted in regards to flavor, but be careful how you set yourself if other players are expected to react to you without your having an in game reputation.
 
-#### We'd MUCh rather you set your character up to go earn those things IN GAME rather than start off with it. 
+#### We'd MUCH rather you set your character up to go earn those things IN GAME rather than start off with it. It's a player driven world. Go drive it.
 
 If you want to be a sneakthief pickpocket with prestidigitation as her magics, go for it. 
 
