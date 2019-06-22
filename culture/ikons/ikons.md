@@ -10,6 +10,7 @@ When in doubt, ask in #halp.
 #### This is not an exhaustive list
 Players are welcome to introduce new ikons in RP. If they take off in popularity, who knows, they might end up 'official' on this list! 
 
+### Widely Recognized Ikons
 - [Aidoneus, bird and rhino representing the duality of death](https://github.com/Quae/greyveldt/blob/master/culture/ikons/aidoneus.md)
 - [The Avocado, representing promise, wealth, greed, generosity in turn, correlated to the state of the avocado](https://github.com/Quae/greyveldt/blob/master/culture/ikons/avocado.md)
 - [The Pangolin, representing introverts, safety, and impenetrable focus](https://github.com/Quae/greyveldt/blob/master/culture/ikons/pangolin.md)
