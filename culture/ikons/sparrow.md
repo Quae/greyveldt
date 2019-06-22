@@ -1,7 +1,7 @@
 ## The Sparrow, harbringer of agricultural success and compromise
 
 ### Representation / Symbology
-The sparrow in flight is the common etched symbology of the sparrow, usually with an oversized locust gripped in its beak. The compromise of the sparrow is in its upkeep; they require certain grain crops in order to subsist and consume the locusts that would, if unchecked, consume all the crops.
+The sparrow in flight is the common etched symbology of the small crops sparrow. The compromise of the sparrow is in its upkeep; they require certain grain crops in order to subsist and consume the locusts that would, if unchecked, consume all the crops.
 
 ### Followers
 
