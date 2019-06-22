@@ -22,6 +22,8 @@ In terms of what's being currently developed and invented, Greyveldt is in an ag
 
 That said, some regions have decidedly futuristic technology. Beacon, for example, has security cameras, working toilets, and water purification processes, but these are considered mysterious artifacts from the past, guarded jealously by the magic-wielding technicians. Defer to the region you're in or ask in #halp before including a world-changing technology. 
 
+By and large, though, outside of pockets of tech and steam punk (mostly Beacon and Roxane), the world exists on a medieval/victorian era technology level. When in doubt, go pocket watch and horse-drawn carriage, or ask in #halp.
+
 #### There are no cars, just the one expansive railway train and traditional beasts of burden.
 
 #### No guns. Sorry. Not even pepperboxes. 
