@@ -36,6 +36,9 @@ There are not end-all defining of every aspect of a character, but instead guide
 
 ### Example:
 Chassy Khazaran has a fitness +1 with the descriptor 'In Shape', because she's a Sentinel and expected to maintain a minimum level of physical fitness.
+
 Chassy has a +0 in health, so she's just 'Able', as in able-bodied.
+
 Chassy's intelligence is +0, which manifests as 'quiet'.
+
 Her charisma, though, oh man, she's got a -1, described as 'severe'.
