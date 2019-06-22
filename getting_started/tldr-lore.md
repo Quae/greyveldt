@@ -54,10 +54,19 @@ Almost literally anything, with limitations on power/influence/wealth/fame/over 
 
 #### We'd MUCh rather you set your character up to go earn those things IN GAME rather than start off with it. 
 
-If you want to be a sneakthief pickpocket with prestidigitation as her magics, go for it. If you want to be one of the militant Sentinels on Beacon- the technology bastion in the center of Sigma- go for it. Wanna be a sheep farmer of sheep (yes, you read that right), you can roll a character on the plains of Hatalmas Vadonban as an enlighted Sheepkin Felemelte.
+If you want to be a sneakthief pickpocket with prestidigitation as her magics, go for it. 
 
-Some example characters already in game:
+If you want to be one of the militant Sentinels on Beacon- the technology bastion in the center of Sigma- go for it.
+
+Wanna be a sheep farmer of sheep (yes, you read that right), you can roll a character on the plains of Hatalmas Vadonban as an enlighted Sheepkin Felemelte.
+
+Want to be an itinerant bard, trekking the dangerous paths through the Lucid Wastes to share tales of derring do and heroism? Here's your one man band device, complete with harmonica.
+
+#### Some example characters already in game:
+
 **Chassy Khazaran,** a humana ancestry Sentinel of Beacon, fallen from grace with her involvement- or lack in preventing- the explosion of the Beeliner. She's now in charge of the Wayfarer branch office in Beacon, handing out bounties and their rewards.
 
 **Razor,** a batkin Felemelte wanted for terrorism, murder, sabotague, and all sorts of other nasty crimes racked up during his involvement with the Beeliner explosion. Rumor has it he lives in that town of scum and villany, Roxane.
+
+If you'd like to run some ideas past folks and get input from the natives, feel free to ask in #halp for advice, or for a lurker tag so you can OOCly watch RP happening all across Greyveldt for inspiration.
 
