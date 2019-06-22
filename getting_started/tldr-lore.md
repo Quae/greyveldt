@@ -12,3 +12,5 @@ Note, given that much music includes technology NOT available in Greyveldt, we h
 
 ### Where is Greyveldt?
 There's a planet somewhere out there in fantasy/sci fi land that's all on its lonesome. Characters will have grown up hearing stories about there being a huge universe out there, with other planets, other creatures, other cultures, and Humana in particular will be inclined to believe themselves to be descended from offworlders.
+
+We encourage players to come up with their own backstories and embellishments to their character's stories, culture, upbringing, etc, so when it comes to 'soft' lore like history, your character could believe anything they want, been told anything you want, or reject the status quo vehemently. Just be prepared for the IC consequences.
