@@ -69,5 +69,5 @@ Want to be an itinerant bard, trekking the dangerous paths through the Lucid Was
 **Razor,** an ex-Sentinel batkin Felemelte wanted for terrorism, murder, sabotage, and all sorts of other nasty crimes racked up during his involvement with the Beeliner explosion. Rumor has it he lives in that town of scum and villany, Roxane. Rumor also has it that he was Chassy's partner at the time of the Beeliner explosion...
 
 
-If you'd like to run some ideas past folks and get input from the natives, feel free to ask in #halp for advice, or for a lurker tag so you can OOCly watch RP happening all across Greyveldt for inspiration.
+If you'd like to run some ideas past folks and get input from the natives or look to forge pre-made connections, feel free to ask in #halp for advice, or for a lurker tag so you can OOCly watch RP happening all across Greyveldt for inspiration.
 
