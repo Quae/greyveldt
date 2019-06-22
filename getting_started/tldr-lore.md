@@ -48,3 +48,10 @@ That's not to say you can't have your garden wilt because you failed to pray to 
 
 #### There are ikons, too!
 You might want to adopt one or two as your character's patron influencer/saint/demideity. They're great ways to connect your character to the world.  Take a look at our [ikons](https://github.com/Quae/greyveldt/blob/master/culture/ikons/ikons.md) index.
+
+### So what kind of characters can I play?
+Almost literally anything, with limitations on power/influence/wealth/fame/over powered whateverness. We encourage creativity for the sake of interesting stories, so there's a lot of leeway granted in regards to flavor, but be careful how you set yourself if other players are expected to react to you without your having an in game reputation.
+
+#### We'd MUCh rather you set your character up to go earn those things IN GAME rather than start off with it. 
+
+If you want to be a sneakthief pickpocket with prestidigitation as her magics, go for it. If you want to be one of the militant Sentinels on Beacon- the technology bastion in the center of Sigma- go for it. Wanna be a sheep farmer of sheep (yes, you read that right), you can roll a character on the plains of Hatalmas Vadonban as an enlighted Sheepkin Felemelte.
