@@ -5,6 +5,8 @@ _Don't be a dick   - Wheaton's Law_
 
 By joining, you agree to treat your fellow players with civility even amidst disagreement. For example, you will be polite when pointing out rules/lore/gameplay violations to other players, and likewise, you will respond courteously when/if such is done for you. This doesn't mean your characters can't be jerks-- but you, yourself, must be civil and polite.
 
+It should go without saying that we welcome all of humanity regardless of race, creed, religion, politics, gender/non-gender, orientation, ideology; everyone is welcome here so _long as they abide by the same rules of civility in interacting with each other_ as well as the rest of the TOS. 
+
 ### Adherence to OOC & IC
 By joining, you agree to abide by OOC vs. IC distinction by using specific OOC channels or ((text)) for in-channel clarifications. Please minimize OOC banter in IC channels.
 
